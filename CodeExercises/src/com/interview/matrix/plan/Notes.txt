@@ -1,0 +1,51 @@
+Matrix problem
+
+	N given points from 0 to N - 1 on a matrix
+	Circle start at 0, 0
+	Not contain two points with the same tag
+
+s = "ABDCA"
+x = [2,-1,-4,-3,3]
+y = [2,-2, 4, 1,-3]
+Expected result 3
+
+Options
+- Start at point 0,0 and start iterating up
+- Iterate from the input S and validate the points
+
+
+s = "ABB"
+x = [1, -2, -2]
+y = [1, -2, 2]
+
+limitBorder = 
+hm = new HashMap<>()
+counter = 0
+A[1,1], B[-2,-2], B[-2,2]
+!containsKey
+	hm.put(char, index); //{[A,0], [B,1], 
+else{
+	//Get the smallest from both, CLOSES to zero
+	existingIndex
+	existingX = //saved
+	existingY
+	sumExisting = abs(existingX) + abs(existingY); //2+2 = 4
+	sumPoints = abs(pointsX) + abs(pointsY); // 2+ 2 = 4
+	
+	if(sumExsting == sumPoints){ //same values
+		hm.remove(c)
+		limitBorder = sumExisting
+		for(iterate HM){
+			savedC = hm.getKey
+			savedIndex = hm.getValue()
+			savedValueSum = abs(array[savedIncex]) + abs(array[savedIndex])
+			if(limitBorder <= savedValueSum){
+				hm.remove(savedC)
+			}
+		}
+	}else{
+		finalIndex = sumExsting < sumPoints ? existingIndex : i;
+		hm.put(c, finalIndex);
+	}
+
+}
