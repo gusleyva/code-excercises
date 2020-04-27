@@ -1,4 +1,4 @@
-package com.interview.trees.invert;
+package com.exercises.trees.invert;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

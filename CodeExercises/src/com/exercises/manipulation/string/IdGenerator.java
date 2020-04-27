@@ -1,4 +1,4 @@
-package com.interview.manipulation.string;
+package com.exercises.manipulation.string;
 
 import java.time.LocalDate;
 import java.util.Date;

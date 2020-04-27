@@ -1,4 +1,4 @@
-package com.interview.array.search;
+package com.exercises.array.search;
 
 import java.util.Arrays;
 

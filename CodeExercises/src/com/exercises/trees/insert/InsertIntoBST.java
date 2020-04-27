@@ -1,4 +1,4 @@
-package com.interview.trees.insert;
+package com.exercises.trees.insert;
 
 public class InsertIntoBST {
 

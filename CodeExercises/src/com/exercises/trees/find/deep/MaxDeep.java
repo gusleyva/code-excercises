@@ -1,4 +1,4 @@
-package com.interview.trees.find.deep;
+package com.exercises.trees.find.deep;
 
 import java.util.LinkedList;
 import java.util.Queue;

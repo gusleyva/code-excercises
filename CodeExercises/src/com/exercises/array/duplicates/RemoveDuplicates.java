@@ -1,4 +1,4 @@
-package com.interview.array.duplicates;
+package com.exercises.array.duplicates;
 
 public class RemoveDuplicates {
 

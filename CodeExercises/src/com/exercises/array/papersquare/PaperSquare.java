@@ -1,4 +1,4 @@
-package com.interview.array.papersquare;
+package com.exercises.array.papersquare;
 
 import java.util.ArrayList;
 import java.util.Arrays;

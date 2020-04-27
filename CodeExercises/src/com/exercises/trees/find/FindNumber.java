@@ -1,4 +1,4 @@
-package com.interview.trees.find;
+package com.exercises.trees.find;
 
 public class FindNumber {
 

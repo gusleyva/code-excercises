@@ -1,4 +1,4 @@
-package com.interview.manipulation.string.compressed;
+package com.exercises.manipulation.string.compressed;
 
 public class StringCompressed {
 

@@ -1,4 +1,4 @@
-package com.interview.matrix.sunshades;
+package com.exercises.matrix.sunshades;
 
 public class SheepSunshadesV2 {
 

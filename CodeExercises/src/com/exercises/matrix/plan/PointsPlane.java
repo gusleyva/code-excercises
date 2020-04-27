@@ -1,4 +1,4 @@
-package com.interview.matrix.plan;
+package com.exercises.matrix.plan;
 
 import java.util.ArrayList;
 import java.util.Arrays;

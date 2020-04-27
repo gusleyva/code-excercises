@@ -1,4 +1,4 @@
-package com.interview.array.unique;
+package com.exercises.array.unique;
 
 import java.util.Arrays;
 import java.util.HashMap;
