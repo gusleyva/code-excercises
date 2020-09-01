@@ -24,7 +24,7 @@ public class RemoveDuplicates {
         while(head < len) {
         	count++;
         	int previous = nums[head];
-        	nums[count - 1] = previous;
+        	//nums[count - 1] = previous;
         	while(head < len && previous == nums[head]) {
         		head++;
         	}
