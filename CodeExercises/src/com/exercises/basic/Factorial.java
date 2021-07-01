@@ -28,6 +28,15 @@ public class Factorial {
 		}
 		return sum;
 	}
+
+	static int factorialLoop(int num) {
+		int result = 1;
+		for(int idx = 2; idx <= num; idx++) { //4
+			int multiply = idx * result; //2 * 1 = 2, 3 * 2 = 6, 4*6
+			result = multiply;
+		}
+		return result;
+	}
 	
 	/**
 	 * 3! = 3 * 2! = 3 * 2 = 6
